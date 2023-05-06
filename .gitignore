@@ -1,0 +1,4 @@
+# .gitignore file for: gpt-problem-set-base
+
+## Ignore .vscode folder on all categories using ** wildcard
+.vscode/
