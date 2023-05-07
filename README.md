@@ -5,10 +5,10 @@
 ## Table of Contents
 - [About](#about)
 - [Setup](#setup)
-	- [Initial context](#initial-context)
-	- [Instructions & commands](#instructions--commands)
-	- [Definition of basic commands](#definition-of-basic-commands)
-	- [Formatting instructions](#formatting-instructions)
+	- [Initial context](#1-initial-context)
+	- [Instructions & commands](#2-instructions--commands)
+	- [Definition of basic commands](#3-definition-of-basic-commands)
+	- [Formatting instructions](#4-formatting-instructions)
 - [Usage](#usage)
 
 # About
